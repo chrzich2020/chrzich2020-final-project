@@ -1,0 +1,34 @@
+.centered-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.edit {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.edit button {
+    margin-left: 10px; /* Add some space between the buttons */
+    padding: 10px 20px; /* Add some padding inside the buttons */
+    border: none; /* Remove the default border */
+    border-radius: 5px; /* Add rounded corners */
+ 
+    color: white; /* Make the text color white */
+    cursor: pointer; /* Change the cursor when hovering over the buttons */
+}
+
+.edit button:hover {
+    background-color: #0056b3; /* Change the background color when hovering over the buttons */
+}
+
+.comment {
+    font-size: 0.8em; /* Adjust this value to your liking */
+    margin-bottom: 20px; /* Add space below each comment */
+}
+.image{
+    background-color: white;
+}
