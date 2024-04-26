@@ -4,7 +4,7 @@ Submitted by: Colin Hrzich
 
 This web app: lets people create posts and within the posts, users can write comments, upvote, edit and delete posts. When creating a post, a title, content, and image url can be added. The home page will then display the title, number of upvotes, and how long ago it has been created.
 
-Link to netlify page:
+Link to netlify page: https://main--sensational-platypus-4ca592.netlify.app
 
 Time spent: **4** hours spent in total
 
@@ -43,14 +43,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](./ABA%20Maker/src/assets/videowalkthrough.gif)
+*Gif is slow
+![Video Walkthrough](./HobbyHub/src/assets/videowalkthrough.gif)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Recorded with OBS
+Made into gif with Cloud Convert
 
 ## Notes
 
